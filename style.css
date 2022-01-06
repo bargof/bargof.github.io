@@ -1,0 +1,10 @@
+
+.maintenanceBanner{
+    height: fit-content;
+    background-color: rgb(240, 240, 220);
+    border-radius: 3pt;
+    margin: 12pt;
+    padding: 12pt;
+
+    font-size: 21pt;
+}
